@@ -1,2 +1,2 @@
-# mp2calculator
+# Modified Pag-IBIG 2 Savings Calculator
 This project aims to calculate projected ROI when in investing in Modified Pag-IBIG 2 Savings
